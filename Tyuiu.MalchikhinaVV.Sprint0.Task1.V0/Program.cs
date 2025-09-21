@@ -12,9 +12,12 @@ namespace Tyuiu.MalchikhinaVV.Sprint0.Task1.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
             string name = "Лера";
             int age = 22;
-            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " года!");
+
+            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " года.");
+
             Console.ReadKey();
         }
     }
